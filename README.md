@@ -1,2 +1,2 @@
 # szentpalota-magazin
-Official repo of Szentpalota Urbanmove's official magaine
+Official repo of Szentpalota Urbanmove's official magazine
